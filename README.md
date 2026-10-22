@@ -2,7 +2,7 @@
 
 **Nama:** Guruh Khaerullah Kusvhi  
 **NIM:** 312310630  
-**Kelas:** I231C — Teknik Informatika  
+**Kelas:** I231C Teknik Informatika  
 **Mata Kuliah:** Pemrograman Web (Pertemuan 6)
 
 ---
